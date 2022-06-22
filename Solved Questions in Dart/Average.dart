@@ -3,7 +3,7 @@ import 'dart:ffi';
 import 'dart:io';
 import 'dart:core';
 
-const int size = 3;
+const int size = 10;
 void main() {
   var aux;
   int i;
